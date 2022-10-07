@@ -1,12 +1,11 @@
 # AnyBuy - An eCommerce Website
 
 
-# AnyBuy -  is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
-
 ## DEMO
 
-DESLTOP 🖥️
-![AnyBuy Desktop Demo](./website-demo-image/desktop.png "Desktop Demo") 
+DESKTOP 🖥️
+![AnyBuy Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")   
+
 MOBILE 📱
 ![AnyBuy Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
@@ -18,6 +17,8 @@ Hey, You did it :v:
 </div>
 
 
+
+## AnyBuy - is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## License
 
